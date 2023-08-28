@@ -10,3 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me, drop an email at aayushprajapati0807@gmail.com
 -->
+<h3 align="center" >MACHINE LEARNING & OPEN SOURCE & ALGORITHMIC TRADING & GAME DEV</h3>
+
+<a href="https://github.com/Thehackerash">
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thehackerash&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Thehackerash&theme=chartreuse-dark">
+  
+</a>
