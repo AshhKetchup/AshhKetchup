@@ -4,12 +4,24 @@
 
 Here are some ideas to get you started:
 
+<br/>
+
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&logoColor=FFA518)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=A8B9CC)&nbsp;
+<br/>
+
 - 🔭 I’m primarily interested in open-source and machine learning 
 - 🌱 I’m currently learning game dev, algo-trading and deep learning
 - 👯 I’m looking forward to collaborate with other open-source enthusiasts
 - 💬 Ask me about ...
 - 📫 How to reach me, drop an email at aayushprajapati0807@gmail.com
--->
+
 <h3 align="center" >MACHINE LEARNING & OPEN SOURCE & ALGORITHMIC TRADING & GAME DEV</h3>
 
 <a href="https://github.com/Thehackerash">
