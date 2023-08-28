@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Tensorlfow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorfloe&logoColor=A8B9CC)&nbsp;
 <br/>
 
-- 🔭 I’m primarily interested in open-source and machine learning 
+- 🔭 I’m primarily interested in finance, open-source and machine learning 
 - 🌱 I’m currently learning game dev, algo-trading and deep learning
 - 👯 I’m looking forward to collaborate with other open-source enthusiasts
 - 💬 Ask me about ...
