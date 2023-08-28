@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p align="center">Hey there! I'm [Aayush](https://octoprofile.vercel.app/user?id=Thehackerash)</p>
 
 **Thehackerash/Thehackerash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +18,3 @@ Here are some ideas to get you started:
   <img height="160em"  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Thehackerash&theme=chartreuse-dark">
   
 </a>
-
-![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Thehackerash&theme=react-dark&hide_border=true&area=true)
