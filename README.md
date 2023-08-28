@@ -6,6 +6,10 @@ Here are some ideas to get you started:
 
 <br/>
 
+<p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Thehackerash"><img src="https://img.shields.io/github/followers/Thehackerash?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; &nbsp; <a 
+<br/>
+<br/>
+
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&logoColor=FFA518)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -13,7 +17,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Pythoon](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=A8B9CC)&nbsp;
+![Tensorlfow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorfloe&logoColor=A8B9CC)&nbsp;
 <br/>
 
 - 🔭 I’m primarily interested in open-source and machine learning 
