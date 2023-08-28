@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Thehackerash">
   
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Thehackerash&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Thehackerash&theme=chartreuse-dark">
+  <img height="160em"  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Thehackerash&theme=chartreuse-dark">
   
 </a>
+
+![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Thehackerash&theme=react-dark&hide_border=true&area=true)
