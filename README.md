@@ -1,6 +1,6 @@
 ### <p align="center">Hey there! I'm [Ash](https://octoprofile.vercel.app/user?id=Thehackerash)</p>
 
-**Thehackerash/Thehackerash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Thehackerash/Thehackerash** is a  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
