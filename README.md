@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-<h3 align="center" >MACHINE LEARNING & OPEN SOURCE & ALGORITHMIC TRADING & GAME DEVEVELOPEMENT</h3>
+<h3 align="center" >MACHINE LEARNING & OPEN SOURCE & GAME DEVEVELOPEMENT</h3>
 <br/>
 
 <p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Thehackerash"><img src="https://img.shields.io/github/followers/Thehackerash?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; &nbsp; <a 
