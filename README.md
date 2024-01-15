@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking forward to collaborate with other open-source enthusiasts
 - 💬 Ask me about ...
 - 📫 How to reach me, drop an email at aayushprajapati0807@gmail.com
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+
+![](https://komarev.com/ghpvc/?username=thehackerash&color=268F77)
 <a href="https://github.com/Thehackerash">
   
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Thehackerash&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
