@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-<h3 align="center" >MACHINE LEARNING & OPEN SOURCE & GAME DEVEVELOPEMENT</h3>
+<h3 align="center" >MACHINE LEARNING & OPEN SOURCE</h3>
 <br/>
 
 <p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Thehackerash"><img src="https://img.shields.io/github/followers/Thehackerash?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; &nbsp; <a 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br/>
 
 - 🔭 I’m primarily interested in finance, open-source and machine learning 
-- 🌱 I’m currently learning unreal engine 5, algo-trading and tensorflow
+- 🌱 I’m currently learning nodejs and tensorflow
 - 👯 I’m looking forward to collaborate with other open-source enthusiasts
 - 💬 Ask me about ...
 - 📫 How to reach me, drop an email at aayushprajapati0807@gmail.com
