@@ -1,6 +1,6 @@
 ### <p align="center">Hey there! I'm [Ash](https://octoprofile.vercel.app/user?id=Thehackerash)</p>
 
-hey!!! it's Aayush, A Developer who love to develop new ideas(if u hv any let's build together) and an anime lover(good suggestions are always invited).
+A Developer who love to develop new ideas(if u hv any let's build together) and an anime lover(good suggestions are always invited).
 
 <h3 align="center" >MACHINE LEARNING & OPEN SOURCE</h3>
 <br/>
