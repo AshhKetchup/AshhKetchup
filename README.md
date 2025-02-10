@@ -9,8 +9,8 @@
 <div align="center">
 
 💼 IIITA • Back-end dev • CyberSecurity  
-💻 Linux • Nvim  
-📖 Software architecture • Distributed systems  
+💻 Linux • hyprland  
+📖 software engineer • a wannabe hacker  
 🎮 Music • Games • Anime • Code • Art  
 </div>
 </pre>
