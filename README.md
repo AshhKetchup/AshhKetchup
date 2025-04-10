@@ -36,7 +36,7 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-REST-9C27B0?style=flat-square&logo=REST&logoColor=white" alt="REST" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" alt="VS Code" height="30" />
   </p>
-<img src="./assets/cute-anime-chibi-boy-blushing.gif" height="auto" align="center" alt="Cute Anime Chibi Boy Blushing">
+<img src="./blush.webp" height="auto" align="center" alt="Cute Anime Chibi Boy Blushing">
 </div>
 
 
