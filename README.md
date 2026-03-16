@@ -1,19 +1,19 @@
 
 <h1 align="center">👋, 𝘐'𝘮 Aayush! 💠</h1>
-<div align="center">
-  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="460px" height="auto" align="center">
-</div>
 
-<br>
 
-<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
+#### 🔨 Check out my recent pull requests
+- [Feat: add chunking streaming in tts](https://github.com/liquidos-ai/AutoAgents/pull/187) on [AutoAgents](https://github.com/liquidos-ai/AutoAgents)
+- [fix(skills): add pdf-reading skill to prevent Chrome screenshot content](https://github.com/different-ai/openwork/pull/891) on [openwork](https://github.com/different-ai/openwork)
+- [fix: On macOS, GUI applications don't inherit shell profile modifications](https://github.com/different-ai/openwork/pull/563) on [openwork](https://github.com/different-ai/openwork)
+- [fix: Fixed editor mode file open failing](https://github.com/different-ai/openwork/pull/634) on [openwork](https://github.com/different-ai/openwork)
+- [feat(app): add option to hide window titlebar on Linux](https://github.com/different-ai/openwork/pull/465) on [openwork](https://github.com/different-ai/openwork)
+- [Feat: GitHub remove org membership to free seat](https://github.com/ShipSecAI/studio/pull/65) on [ShipSecAi](https://github.com/ShipSecAI/studio)
 
-<ul>
-  <li> 📺 Currently watching <b>solo leveling</b></li>
-  <li> 🔭 I’m currently working on <b>working on microservices(my prof made me do so)</b></li>
-  <li> 🎮 I’m currently playing <b>GTA V</b> or <b>The 1975</b></li>
-  <li> 📫 How to reach me: <b>aayushprajapati0807@gmail.com</b></li>
-</ul>
+
+#### 👷 Check out what I'm currently working on
+- [different-ai/openwork(yc26)](https://github.com/different-ai/openwork) - An Open source alternative to claude code
+- [liquidos-ai/autoagents](https://github.com/liquidos-ai/AutoAgents) - A production-grade multi-agent framework in Rust
 
 <br>
 
@@ -23,6 +23,8 @@
     A computer enthusiast passionate about Back‑end Development, CyberSecurity, Linux, and creative problem‑solving.
   </p>
     <p align="center">
+          <img style="margin: 5px" src="https://img.shields.io/badge/Claude_Code-555?logo=claude" alt="VS Code" height="30" />
+    <br>
     <img style="margin: 5px" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" height="30" />
@@ -34,7 +36,6 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-Hugo-25BAF2?style=flat-square&logo=Hugo&logoColor=white" alt="Hugo" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-gRPC-00BFFF?style=flat-square&logo=gRPC&logoColor=white" alt="gRPC" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-REST-9C27B0?style=flat-square&logo=REST&logoColor=white" alt="REST" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" alt="VS Code" height="30" />
   </p>
 <img src="./blush.webp" height="auto" align="center" alt="Cute Anime Chibi Boy Blushing">
 </div>
